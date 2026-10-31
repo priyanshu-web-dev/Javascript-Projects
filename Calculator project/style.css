@@ -1,0 +1,46 @@
+body{
+    background-color: aquamarine;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+#container{
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 0px;
+    padding: 0px;
+  background-color: rgb(17, 14, 14);
+}
+#input{
+    width: 183px;
+    margin: 5px;
+    margin-top: 10px;
+   padding: 2px;
+   padding-bottom: 10px;
+
+}
+#buttons{
+    margin:10px;
+    padding: 10px;
+    width: 180px;
+    font-size:10;
+    width: 150px;
+    
+}
+.button{
+    margin-top: 20px;
+    margin-right: 10px;
+    height: 25px;
+    width: 20px;
+    color: burlywood;
+    background-color: rgb(22, 157, 78);
+
+}
+#clear{
+    background-color: chocolate;
+}
+#equal{
+    background-color: cornflowerblue;
+}
